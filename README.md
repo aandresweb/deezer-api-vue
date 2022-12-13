@@ -1,5 +1,9 @@
 # spotify
 
+## Demo
+
+https://aandresweb.github.io/deezer-api-vue/
+
 ## Project setup
 ```
 npm install
